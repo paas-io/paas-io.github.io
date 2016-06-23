@@ -21,9 +21,10 @@ github:   paas-io
 # Google Analytics
 # google_analytics: tracking_ID
 
-
 # disqus 设置
 disqus_shortname: paas-io
+disqus:
+  shortname: paas-io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
