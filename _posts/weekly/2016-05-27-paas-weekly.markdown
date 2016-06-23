@@ -2,8 +2,8 @@
 layout: post
 title:  "【20160527】一周业内技术动态"
 date:   2016-05-27 16:38:20
-categories: 动态
-tags: 动态
+categories: 周刊
+tags: 周刊
 ---
 # 20160527期
 
